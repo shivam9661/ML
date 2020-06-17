@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 def main():
-	st.title("Himanshu Tripathi...")
+	st.title("Shivam Srivastav...")
 
 	st.title("IRIS Data Classification In Web")
 
@@ -166,7 +166,7 @@ def main():
 
 
 	st.title("Thanks for Watching......")
-	st.header("Himanshu Tripathi")
+	st.header("Shivam Srivastav")
 
 if __name__ == '__main__':
 	main()
